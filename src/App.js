@@ -24,6 +24,9 @@ function App() {
           <Route path="/home" exact>
             <HomePage />
           </Route>
+          <Route path="/free_api_react" exact>
+            <HomePage />
+          </Route>
           <Route path="/makelist" exact>
             <VehiclesMake />
           </Route>
