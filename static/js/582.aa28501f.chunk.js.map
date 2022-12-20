@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/582.aa28501f.chunk.js","mappings":"+HAKA,UAHiB,WACf,OAAO,SAAC,EAAAA,SAAQ,gCAClB,C","sources":["pages/404.js"],"sourcesContent":["import { Fragment } from \"react\";\n\nconst NotFound = () => {\n  return <Fragment>Ops nothing found!</Fragment>;\n};\nexport default NotFound;\n"],"names":["Fragment"],"sourceRoot":""}
