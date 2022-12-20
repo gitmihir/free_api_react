@@ -30,7 +30,7 @@ const Make = (props) => {
         })}
         <div className="col-md-12 mt-5 text-center">
           <button
-            className="btn btn-success text-center"
+            className="btn btn-success text-center btnClr"
             type="button"
             onClick={loadMoreData}
           >
